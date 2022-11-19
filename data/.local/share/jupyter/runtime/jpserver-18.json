@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "0.0.0.0",
+  "password": false,
+  "pid": 18,
+  "port": 8888,
+  "root_dir": "/home/max",
+  "secure": false,
+  "sock": "",
+  "token": "f7915173bd57ec696c51ee9885cd925e383ad9d4e13a9b9d",
+  "url": "http://86511466d9de:8888/",
+  "version": "1.23.2"
+}
